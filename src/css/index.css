@@ -1,0 +1,10 @@
+.box1 {
+  width: 200px;
+  height: 200px;
+  background-color: aquamarine;
+}
+
+.img-box {
+  background-image: url(../assets/bg.jpg);
+  background-attachment: fixed;
+}
